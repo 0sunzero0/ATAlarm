@@ -54,7 +54,7 @@
 - 0sunzero0(Developer): Design, Back-end
   - 어플리케이션 layout 디자인, Frangment layout 구현, DB 설계 및 기능 구현, Notification 구현
 - S0rrow(Developer): Back-end
-  - [안드로이드 스튜디오에서 셀레니움으로 크롤링 🕸](https://github.com/S0rrow/RE_Crawler)
+  - [🕸안드로이드 스튜디오에서 셀레니움으로 크롤링](https://github.com/S0rrow/RE_Crawler)
  <br>(히즈넷에서 유저 로그인 정보 적용, 히즈넷에서 시간표데이터를 웹 크롤링을 통해 가공해서 Grid Layout에 출력)
 - WhiteJi(Developer): Design, Front-end
   - 어플리케이션 layout 디자인 및 구현, 외부 앱 연동, Notification 구현
