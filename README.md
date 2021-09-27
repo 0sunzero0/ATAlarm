@@ -60,6 +60,7 @@
 - WhiteJi(Developer): Design, Front-end
   - 어플리케이션 layout 디자인 및 구현, 외부 앱 연동, Notification 구현
 
+
 ### 사용 기술
 - 개발 환경 : Android Studio, Java
 - DB : SQLite
